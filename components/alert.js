@@ -11,6 +11,7 @@ export default function Alert({ preview }) {
       })}
     >
       <Container>
+        {/*
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
@@ -36,6 +37,7 @@ export default function Alert({ preview }) {
             </>
           )}
         </div>
+*/}
       </Container>
     </div>
   )

@@ -1,21 +1,23 @@
-import { CMS_NAME } from '../lib/constants'
+
+import Image from 'next/image'
+import logo from '../images/logo.png'
+
+
 
 export default function Intro() {
   return (
-    <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
-      <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
-        Blog.
-      </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{' '}
-        <a
-          href="https://nextjs.org/"
-          className="underline hover:text-success duration-200 transition-colors"
-        >
-          Next.js
-        </a>{' '}
-        and {CMS_NAME}.
+    <section className="flex-col md:flex-row flex items-center md:justify-between mt-0 mb-16 md:mb-0">
+     <Image 
+
+     src={logo} 
+     width={150}
+      height={150}
+     alt="Picture of the author" 
+     />
+      <h4 className=" text-black-700 font-sans  font-extrabold text-center md:text-left text-6xl ml-5 mt-0 md:pl-20">
+                   Kui's Blog
       </h4>
     </section>
   )
 }
+                   

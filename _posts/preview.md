@@ -1,6 +1,6 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'How to maintain a Balanced Diet'
+excerpt: 'A balanced diet is a diet that contains differing kinds of foods in certain quantities and proportions so that the requirement for calories, proteins, minerals, vitamins and alternative nutrients.'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -10,9 +10,24 @@ ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+    Healthy eating increases energy, improves the way your body functions, strengthens your immune system and prevents weight gain. The other major benefits are:
+    Meets your nutritional need. A varied, balanced diet provides the nutrients you need to avoid nutritional deficiencies.
+    Prevent and treat certain diseases. Healthful eating can prevent the risk of developing certain diseases such as diabetes, cancer and heart disease. It is also helpful in treating diabetes and high blood pressure.
+    Following a special diet can reduce symptoms, and may help you better manage an illness or condition.
+    Feel energetic and manage your weight. A healthy diet will assist you to feel higher, provide you with more energy, and help you fight stress.
+    Food is the mainstay of many social and cultural events. Apart from nutrition properties, it helps facilitate connections between individuals.
+
+HERE ARE SOME GENERAL GUIDELINES FOR HEALTHY EATING
+
+    The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day.
+    Learn simple ways to prepare food. Healthy eating doesn’t have to mean complicated eating. Keep meal preparation easy, eat more raw foods such as salads, fruits and vegetable juices, and focus on the pleasure of eating healthy food rather than the calories.
+    It is important to stop when you feel full. This will help you maintain your weight to an extent. This also will help you remain alert and feeling your best.
+    Drink lots of water. Keep a bottle of water near you while working, watching TV, etc.
+    Variety of foods should be used in the menu. No single food has all the nutrients.
+    To improve the cereal and pulse protein quality, a minimum ratio of cereal protein to pulse protein should be 4:1. In terms of the grains, it will be eight parts of cereals and one part of pulses.
+    Eat five portions of fruit and vegetables every day.
+    Keep a supply of healthy snacks to hand. This will stop you from eating an unhealthy snack when hungry.
 
 ## Lorem Ipsum
 
